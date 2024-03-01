@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bat
+  - Skeleton
+  - Checkpoint
+  - Spike
+  - Gas
+  - Gas Platforms
+  - Tutorial Note
+  - Fire
+  - Water
+  - Bridge
+  - Wood
+  - Goblin
+  - Wolf
+  - Lever
+  - Blue Platform
+  - Red Platform
+  - Yellow Platform
+  - Buttons
+  - Walls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

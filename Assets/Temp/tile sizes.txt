@@ -1,0 +1,8 @@
+Idle, Walk, Jump, Dodge tile size:
+60x120p
+
+Heavy attack tilesize:
+180x120p
+
+Light Attack tile size:
+120x120p
